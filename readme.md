@@ -59,6 +59,8 @@
 
 <br clear="both">
 
+<img src="https://raw.githubusercontent.com/Sammalik101/Sammalik101/output/snake.svg" alt="Snake animation" />
+
 ###
 
 <p align="left">Welcome to my github. This page contains all my work, personal projects and more. While most of these projects use CSS/HTML/ Javascript for web development, I'm also familiar with Python, CPP and C# from my experiences in University of Michigan, where I work towards my bachelors in computer science with a minor in international studies.<br><br>I love working on artificial intelligence projects and bash scripting to make my life easier, and although my time in higher education led me to focus in coding languages, my personal time spent working on solo projects and research projects taught me NextJS, Latex, MongoDB, and more on platforms such as Photoshop, Xcode and VScode.<br><br>Welcome, to my page :)</p>
